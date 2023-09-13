@@ -6,6 +6,13 @@ html, body {
     text-align: center;
 }
 
+.my-logo {
+    color: aliceblue;
+    font-style: normal;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
 h2 {
     font-style: italic;
 }
@@ -15,7 +22,7 @@ h2 {
 }
 
 .primary-title {
-    font-size: 90px;
+    font-size: 70px;
     color: rgb(255, 255, 255);
 }
 
